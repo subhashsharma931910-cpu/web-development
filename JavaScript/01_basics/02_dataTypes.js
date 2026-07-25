@@ -1,0 +1,21 @@
+"use strick"; // Treat all JS code as newer version
+
+// alert(3 + 3) // we are using nodejs, not browser
+
+let name = "subhash" //string
+let age = 21
+let isLoggedIn = false;
+
+//number => 2 to 53
+//bigint
+//string => ""
+// boolean => true/false
+//null = standalone value
+// undefine =>
+// symbol => unique 
+
+
+//object 
+console.log(typeof undefined) //undefine
+console.log(typeof null); //object
+
